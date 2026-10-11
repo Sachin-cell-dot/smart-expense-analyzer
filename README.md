@@ -1,3 +1,4 @@
+
 # Smart Expense & Spending Analyzer
 
 An interactive transaction analytics application built using Python, Pandas, Streamlit, Plotly and Scikit-learn.
@@ -172,3 +173,6 @@ These are statistically unusual observations, not confirmed fraudulent transacti
 ## Author
 
 Developed as a personal Data Science project to practice data preprocessing, exploratory analysis, visualization, machine learning and dashboard development.
+
+# smart-expense-analyzer
+An interactive expense analytics dashboard with spending insights and Isolation Forest-based anomaly detection
